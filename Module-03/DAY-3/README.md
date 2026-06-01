@@ -20,8 +20,7 @@ To implement Abstraction in Java by defining an abstract class with abstract met
 
 ## PROGRAM:
 
-## Developed By : BALAJI R
-## Register Number : 212224050004
+
 
 
 
