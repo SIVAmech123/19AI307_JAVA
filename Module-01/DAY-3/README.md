@@ -22,8 +22,8 @@ Write a Java program that prompts the user to enter a non-negative integer and t
 
 ## PROGRAM:
  
-## Developed By : BALAJI R
-## Register Number : 212224050004
+## Developed By : SIVAKUMAR R
+## Register Number : 212223230209
 
 ## SOURCE CODE:
 
