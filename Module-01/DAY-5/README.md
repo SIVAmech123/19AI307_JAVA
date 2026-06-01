@@ -27,8 +27,8 @@ To write a Java program to reverse a given string.
 
 ## PROGRAM:
 
-## Developed By : BALAJI R
-## Register Number : 212224050004
+## Developed By : SIVAKUMAR R
+## Register Number : 212223230209
 
 
 ## SOURCE CODE:
