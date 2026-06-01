@@ -19,8 +19,6 @@ To write a Java program demonstrating Inheritance and Aggregation by creating su
 
 ## PROGRAM:
 
-## Developed By : BALAJI R
-## Register Number : 212224050004
 
 
 ## SOURCE CODE:
