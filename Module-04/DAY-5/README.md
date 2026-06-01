@@ -19,13 +19,6 @@ To implement the Observer Behavioural Design Pattern in Java by creating a Weath
 10.	End the program.
 11.	
 ## PROGRAM:
- ```
-/*
-Program to implement a Behaviour Pattern using Java
-Developed by: BALAJI R
-RegisterNumber: 212224050004
-*/
-```
 
 ## SOURCE CODE:
 
