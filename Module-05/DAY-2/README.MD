@@ -17,13 +17,7 @@ Write a Java program to serialize a collection of objects (like ArrayList<Studen
 8.	Stop the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Serialization and Deserialization using Java
-Developed by: BALAJI R
-RegisterNumber: 212224050004
-*/
-```
+ 
 
 ## SOURCE CODE:
 
