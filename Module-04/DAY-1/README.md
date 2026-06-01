@@ -16,13 +16,6 @@ To implement exception handling in Java by safely performing division and managi
 7.	Stop the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Exception Handling using Java
-Developed by: BALAJI R
-RegisterNumber: 212224050004
-*/
-```
 
 ## SOURCE CODE:
 
