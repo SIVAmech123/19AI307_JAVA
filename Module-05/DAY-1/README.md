@@ -15,13 +15,7 @@ To operationalize a Java workflow that captures user input at runtime and pipeli
 6.	Close the I/O stream and finalize execution.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a InputStreamReader using Java
-Developed by: BALAJI R
-RegisterNumber: 212224050004
-*/
-```
+
 
 ## SOURCE CODE:
 
