@@ -17,13 +17,6 @@ To operationalize SOLID design principles in a Java-based smart city AQI monitor
 8.	Terminate the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a SOLID Principles in Java Program
-Developed by: BALAJI R
-RegisterNumber: 212224050004
-*/
-```
 
 ## SOURCE CODE:
 
