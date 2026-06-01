@@ -17,13 +17,7 @@ To write a Java program that creates two threads, assigns names and priorities t
 8.	End the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Thread Priority Concept using Java
-Developed by: BALAJI R
-RegisterNumber: 212224050004
-*/
-```
+
 
 ## SOURCE CODE:
 
