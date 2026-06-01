@@ -25,11 +25,6 @@ To write a Java program that demonstrates the use of an Inner Class and how it c
 ## PROGRAM:
 
 
-## Developed By : BALAJI R
-## Register Number : 212224050004
-
-
-
 ## SOURCE CODE:
 ```
 import java.util.Scanner;
