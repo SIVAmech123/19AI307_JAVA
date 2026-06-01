@@ -15,14 +15,7 @@ To develop a Java program that writes user input into a file and counts the tota
 7.	End the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a File Handling using Java
-Developed by: BALAJI R
-RegisterNumber: 212224050004
 
-*/
-```
 
 ## SOURCE CODE:
 
