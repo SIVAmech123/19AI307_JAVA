@@ -15,13 +15,7 @@ To architect a tightly coupled Library–Book ecosystem where Book objects are f
 6.	Terminate the program lifecycle.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Composition Concepts in Java
-Developed by: BALAJI R
-RegisterNumber: 212224050004
-*/
-```
+
 
 ## SOURCE CODE:
 
